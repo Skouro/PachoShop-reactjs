@@ -21,4 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 .idea/vcs.xml
+=======
+
+/.idea
+>>>>>>> ff5c22639c2f353bb4a97262b77279fb0319a166
